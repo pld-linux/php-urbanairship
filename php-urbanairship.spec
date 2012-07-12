@@ -4,7 +4,7 @@
 Summary:	Urban Airship PHP library - web service API for iPhone push notifications
 Name:		php-%{pkgname}
 Version:	0.1
-Release:	0.1
+Release:	1
 License:	?
 Group:		Development/Languages/PHP
 Source0:	https://github.com/urbanairship/php-library/tarball/master/%{pkgname}-%{version}.tgz
