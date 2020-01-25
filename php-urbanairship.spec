@@ -1,6 +1,5 @@
 %define		php_min_version  5.2.6
 %define		pkgname	urbanairship
-%include	/usr/lib/rpm/macros.php
 Summary:	Urban Airship PHP library - web service API for iPhone push notifications
 Name:		php-%{pkgname}
 Version:	0.1
